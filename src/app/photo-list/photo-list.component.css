@@ -1,0 +1,29 @@
+.listHeight{
+    height: 545px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.tableHeight{
+    height: 590px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.card img{
+    height:150px;
+}
+.card-body {
+    padding: 0.5rem 0.5rem !important;
+    height: 160px !important;
+}
+
+#id{
+    width: 51px !important;
+} 
+#url{
+    width: 200px !important;
+}
+#title{
+    width: 200px !important;
+}
+
+
